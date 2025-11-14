@@ -56,8 +56,9 @@ ii. User prompt:
   we can take test input and send to a test api.
 
 9Q)
-  Act as a helpful assistant: first give step-by-step instructions that solve my request. 
-  Keep steps concise and practical.
+  Act as a helpful assistant: first give a one-sentence summary, then provide clear, numbered step-by-step instructions that 
+  solve my request. Keep steps concise and practical, include a short example when useful, and ask follow-up questions only
+  if absolutely necessary.
 
 10)
   Llms answers or solutions might be wrong sometimes coz they might not understand the context or tasks we have given.
