@@ -53,7 +53,7 @@ ii. User prompt:
 8Q)
   <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7dc3418e-313c-462c-9e7b-e65cb6f336fa" />
   use case:
-  we cane take test input and send to a test api
+  we can take test input and send to a test api.
 
 9Q)
   Act as a helpful assistant: first give step-by-step instructions that solve my request. 
